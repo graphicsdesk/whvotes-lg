@@ -7,12 +7,116 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Assembly Districts 69 and 70 overwhelmingly voted for Vice President Kamala Harris in the 2024 general election, according to unofficial results from the New York City Board of Elections. However, both districts saw more voters cast their ballot for President-elect Donald Trump in 2024 compared to 2016 and 2020."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "numberlinechart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Compared to President Joe Biden, Harris underperformed in all five boroughs. In Manhattan, where Harris’ margin was widest, she won by 82 percent, over four points less than Biden’s 2020 win in the borough."
+          },
+          {
+            "type": "text",
+            "value": "District 69 includes parts of the Upper West Side, Manhattan Valley, Morningside Heights, and West Harlem. District 70 includes Morningside Heights, Hamilton Heights, Harlem, and El Barrio."
+          },
+          {
+            "type": "text",
+            "value": "This is the highest number of Republican votes in Assembly Districts 69 and 70—which cover the bounds of Community Board 9—in the 21st century, according to scaled unofficial results. Spectator outlined general election voting patterns in Districts 69 and 70 over the past 24 years."
+          },
+          {
+            "type": "text",
+            "value": "Both districts saw the largest drop in Democratic votes and the highest number of votes for the Republican presidential candidate in the last 24 years. Between 2020 and 2024, District 69 saw its greatest increase in Republican votes. District 70 saw its second-highest increase in Republican votes between 2020 and 2024, followed by its highest increase between 2016 and 2020."
+          },
+          {
+            "type": "text",
+            "value": "The following historical analysis only considers official data between 2000 and 2020. The Board of Elections has yet to release official data on the 2024 general elections."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "percentagelinechart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Compared to District 70, a larger percentage—approximately 8 percent more, on average—of District 69’s population cast their ballot. Both districts have overwhelmingly voted for the Democratic party in every general election this century. However, from 2000 until 2020, District 69 tended to vote less Democratic and more Republican than District 70, averaging 87.85 percent of ballots cast for the Democratic candidate and 8.31 percent for the Republican candidate. In comparison, District 70 averaged 93.71 percent of ballots cast for the Democratic candidate and 3.44 percent for the Republican candidate."
+          },
+          {
+            "type": "text",
+            "value": "<b>2000: George W. Bush vs. Al Gore</b>"
+          },
+          {
+            "type": "text",
+            "value": "In 2000, District 70 saw its lowest percentage—90.11 percent—of ballots cast for the Democratic presidential candidate. This election also saw the widest gap of 9.87 percent between Districts 69 and 70 in the Democratic vote. Former President George W. Bush won the presidential election."
+          },
+          {
+            "type": "text",
+            "value": "<b>2004: George W. Bush vs. John Kerry</b>"
+          },
+          {
+            "type": "text",
+            "value": "District 69 saw its highest percentage of ballots cast for the Republican candidate in the 2004 election at 9.93 percent, and District 70 saw its second-highest percentage of 5 percent. The largest gap between the proportion of each district’s population that voted—12.58 percent—occurred in this election. Former President George W. Bush held his seat in the 2004 election."
+          },
+          {
+            "type": "text",
+            "value": "<b>2008: Barack Obama vs. John McCain</b>"
+          },
+          {
+            "type": "text",
+            "value": "The 2008 election saw District 69’s highest percentage—90.39 percent— and District 70’s second-highest percentage—96.33 percent—of ballots cast for the Democratic candidate. Former President Barack Obama won the presidential election."
+          },
+          {
+            "type": "text",
+            "value": "<b>2012: Barack Obama vs. Mitt Romney</b>"
+          },
+          {
+            "type": "text",
+            "value": "In 2012, District 70 saw its highest percentage of ballots cast for the Democratic candidate at 96.41 percent. Contrastingly, District 69 saw the second-highest percentage—9.51 percent—of ballots cast for the Republican candidate. Former President Barack Obama held his seat in the 2012 election."
+          },
+          {
+            "type": "text",
+            "value": "<b>2016: Donald Trump vs. Hillary Clinton</b>"
+          },
+          {
+            "type": "text",
+            "value": "District 69 saw its lowest percentage—6.26 percent—of ballots cast for the Republican candidate in the 2016 election. Donald Trump won the presidential election in 2016."
+          },
+          {
+            "type": "text",
+            "value": "<b>2020: Joe Biden vs. Donald Trump</b>"
+          },
+          {
+            "type": "text",
+            "value": "District 69 saw its second-highest percentage of ballots cast for the Democratic candidate at 90.33 percent. However, this election simultaneously saw District 70’s highest percentage of ballots cast for the Republican candidate Donald Trump from District 70 at 5.78 percent."
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Editor can be contacted at </i><a href=\"mailto:isha.banerjee@columbiaspectator.com\"><i>isha.banerjee@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/ishabanerjee20\"><i>@ishbanerjee20</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Assembly Districts 69 and 70 shift right in 2024 elections",
+        "date": "December 2, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a> and <a href=\"https://www.columbiaspectator.com/contributors/isha-banerjee/\">Isha Banerjee</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1HaDhwOQjnMJvViV4eIi3S0KGSviT3UwnVkMi5K8-7jo/edit?tab=t.0"
       }
     }
   }
